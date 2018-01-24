@@ -22,3 +22,6 @@ PCB: KiCad PCB project files.
 --EDU-NXP: EDU-CIAA-NXP (LPC4337 MCU) files.
 
 Readme: Common readme files.
+
+
+http://www.hardware.com.br/comunidade/a6vmx-capacitores/1326019/
